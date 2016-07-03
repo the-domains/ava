@@ -1,0 +1,14 @@
+layout_spectrum: 0.2773187512066215
+typography_spectrum: 0.2319962412584573
+color:
+  brandStrength: 0.9394624568521976
+  lightness: 0.40366019727662206
+  saturation: 0.17624377901665866
+  rhythmicContrast: 0.700479646679014
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ava
